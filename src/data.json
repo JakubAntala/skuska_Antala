@@ -1,0 +1,43 @@
+{
+    "informacie":[
+        {
+            "id":1,
+            "nadpis": "Hádzaná ako taká",
+            "image": "logo.jpg",
+            "text":"Hádzaná je športová hra, ktorej súčasná podoba vznikla prelínaním hier založených na hádzaní lopty, ktoré sa objavili na rôznych miestach Európy na začiatku 20 storočia . Hádzaná je kolektívna loptová hra. Jej súčasťou sú dve proti sebe hrajúce družstvá. Za každé družstvo hrá 6 hráčov v poli plus brankár. Maximálny počet nominovaných hráčov na zápas je 14, tréner ich môže kedykoľvek striedať, ich počet na ihrisku však nemôže byť vyšši ako 7. Podstatou hádzanej je dať(streliť) rukou viac gólov ako súper. Vyhráva družstvo ktorému sa  podarí dať viacej gólov. Hrá sa na dve brány, gól platí vtedy, keď lopta prejde za bránkovú čiaru."
+        },
+        {
+            "id":2,
+            "nadpis": "Základné pravidlá",
+            "image": "logo.jpg" ,
+            "text":"Súčasné pravidlá hádzanej sú v platnosti od 1. augusta 2005. Každé družstvo má možnosť oddychového času (time-out) jedenkrát za polčas. Ktoré družstvo dosiahne viac gólov, vyhráva. Zápas može skončiť aj remízou. Na dodržovanie pravidiel dohliadajú na zápas určení dvaja rozhodcovia. Hráč môže loptu ovládať(dotknúž sa jej), hádzať nielen rukou, ale aj ramenom, bruchom, nohou nad kolenom. Naopak nesmie sa akokoľvek dotknúť lopty nohou pod kolenom, nesmie spraviť s loptou bez dribligu viac ako tri kroky, nesmie s loptou opustiť priestor ihriska a tiež s ňou (aj bez nej) vstúpiť do bránkoviska, nesmie sa lopty dotknúť viac ako jedenkrát, pokiaľ sa lopta nedotkla medzitým zeme (tzv. dvojak), musí loptu odohrať(prihrať, vystreliť) do troch sekúnd, pokiaľ nedribluje."
+        },
+        {
+            "id":3,
+            "nadpis": "Hracia plocha",
+            "image": "logo.jpg" ,
+            "text":"Hracia plocha je 40 m dlhý a 20 m široký obdĺžnik, ktorý sa skladá z dvoch bránkovísk a hracieho poľa. Dlhšie okraje sa nazývajú postranné čiary, kratšie okraje bránkové čiary (medzi bránkovými žrďami) a bránkové autové čiary (po oboch stranách bránky). Bránka sa nachádza v strede každej bránkovej autovej čiary, jej vnútorná výška je 2 m a vnútorná šírka 3 m. Pred každou bránkou je bránkovisko, v ktorom sa smie pohybovať iba brankár (ten však môže hrať aj v poli, tam už ale pre neho platia pravidlá ako pre každého iného hráča, takže už sa nesmie dotknúť lopty nohou, prípadne s ňou urobiť viac ako tri kroky). Bránkovisko je ohraničené čiarou bránkoviska (6 m)."
+        },
+        {
+            "id":4,
+            "nadpis": "Plážová hádzaná a jej pravidlá",
+            "image": "logo.jpg" ,
+            "text":"Plážová hádzaná sa hrá na pieskovom podklade na ihrisku o rozmeroch 27x12 metrov; zápas obsahuje dva polčasy po 10 minút, s hodnotením každého polčasu samostatne; družstvo tvorí 8 hráčov, vrátane 3 hráčov a brankára na ploche, a všetci hráči musia hrať bosí; možné je hrať s loptou aj keď leží alebo sa kotúľa v bránkovisku, driblovať je povolené, lopta v piesku viac ako 3 sekundy nesmie byť dotknutá hráčom, ktorý sa jej dotkol posledný; gól môže byť ohodnotený 1 alebo 2 bodmi podľa rozhodcu; ak družstvo vyhrá obidva polčasy, vyhráva zápas 2:0, pri výhre jedného polčasu každým družstvom sa o víťazovi rozhodne v penaltovom rozstrele, pri nerozhodnom polčase sa hraje do zlatého gólu; vylúčený hráč sa môže vrátiť na ihrisko po zmene držania lopty, druhé vylúčenie znamená diskvalifikáciu, fauly sú trestané prísnejšie ako v klasickej hádzanej."
+        },
+        {
+            "id":5,
+            "nadpis": "Zlaté časy hádzanej 1951 - 2011",
+            "image": "logo.jpg" ,
+            "text":"Šesťdesiate roky hádzanej v Hlohovci možno oprávnene označiť za najsilnejšie, najúspešnejšie v jej histórii – za zlaté hádzanárske časy. Obriu zásluhu na tom mala ženská zložka, pretože hádzanárky Odevy Hlohovec v tomto čase získali prvé dva historické tituly majsteriek ČSSR, vyhrali Slovenský, Československý pohár a premiérovo sa predstavili v hádzanárskej Európe. Ani muži Drôtovne, napriek tomu, že im bolo dopriate žiť len v tieni slávnejšej Odevy, nezaháľali. Po opätovnom zrode hádzanárskeho oddielu si prerazili cestu medzi slovenskú elitu."
+        },
+        {
+            "id":6,
+            "nadpis": "HC SPORTA Hlohovec",
+            "image": "logo.jpg" ,
+            "text":"HC SPORTA Hlohovec je klub z hlohovca, ktorý vznikol v roku 1951 pod názvom TJ Odeva Hlohovec. Postupom času sa v roku 1963 tím premenoval na TJ Drôtovňa Hlohovec, v roku 1999 na MŠK Hlohovec a od roku 2011 až dodnes hrá pod názvom HC SPORTA Hlohovec. V ženskej kategórii to je 3-násobný majster Česko-Slovenska a dvojnásobný víťaz Slovenského pohára. V mužskej kategórii doposiaľ nezískal titul majstra Slovenska či víťaz slovenského pohára. Mužský tím hrá najvyššiu slovenskú súťaž Niké Handball Extraligu od roku 2006. Oddiel žien súťaží v MOL Lige od roku 2019. Okrem toho má klub aj dorastenecké, žiacke a prípravkárske tímy."
+        }
+
+    ]
+
+    
+}
