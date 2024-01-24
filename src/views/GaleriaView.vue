@@ -6,6 +6,12 @@
   </main>
 </template>
 
-<script setup>
+<script>
 import Galeria from '@/components/Galeria.vue'
+
+export default {
+  components: {
+    Galeria
+  }
+};
 </script>

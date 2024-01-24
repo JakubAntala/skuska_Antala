@@ -13,4 +13,5 @@ import Paticka from './components/Paticka.vue';
     <Paticka />
   </footer>
 </template>
-<style scoped></style>
+<style scoped>
+</style>

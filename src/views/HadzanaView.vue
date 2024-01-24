@@ -9,11 +9,22 @@
     </main>
   </template>
   
-  <script setup>
+  <script>
   import BlokInfo from '@/components/BlokInfo.vue'
   import { pristupInfo } from "../stores/info"
-  const info = pristupInfo();
+  
+  export default {
+    components: {
+      BlokInfo
+    },
+    computed: {
+      info() {
+        return pristupInfo();
+      }
+    }
+  };
   </script>
+  
   <style scoped>
   .uvod {
     display: flex;
@@ -32,7 +43,4 @@
     margin: 10px;
     font-size: 35px;
   }
-
-  
-  
   </style>
